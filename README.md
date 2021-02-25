@@ -31,7 +31,6 @@ git add
 <!-- Write your answer here -->
 git add [file]
 
-6. What is the Git command to see changes you have waiting to be committed?
 
 <!-- Write your answer here -->
 git commit -m "your commit message"
